@@ -4,8 +4,8 @@
 #include <ESP8266WebServer.h>
 
 // Global WiFi variables
-const char* ssid     = "FRITZ!Box 7560 UG"; // Your ssid
-const char* password = "29588493858099152795"; // Your Password
+const char* ssid     = ""; // Your ssid
+const char* password = ""; // Your Password
 
 // Global temperature variables
 float temp_celsius = 0;
